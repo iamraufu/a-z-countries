@@ -11,7 +11,13 @@
     width: 400px;
 }
 
+#countryDetail img {
+    width: 400px;
+}
+
+
+/* 
 .country-name {
     font-size: 45px;
     color: maroon;
-}
+} */
